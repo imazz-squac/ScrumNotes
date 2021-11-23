@@ -1,0 +1,9 @@
+Stand-up 11/23
+
+Raymond - I need to brush up on JavaScript, starting using blueprints on LWC and used a different IDE
+
+Walter - beefed up my notes and reviewed web components.
+
+Matthew - making progress on the porject and got a feel for LWC in VScode.
+
+Ryan - made progress on the project and realizing I need to put more time per day on the training
