@@ -7,3 +7,16 @@ Walter - beefed up my notes and reviewed web components.
 Matthew - making progress on the porject and got a feel for LWC in VScode.
 
 Ryan - made progress on the project and realizing I need to put more time per day on the training
+
+
+Stand up -11/29
+
+Matthew - It was annoying that certain functionality of SLDS components were not working initially such as a button not having any functionality within the componenent but I was able to implement it
+
+Ryan - My roadblock was getting components to link to the project I did however, get one to link.
+
+Walter - The wireframe went well and I was able to incorporate a lot of the things we learned last week. I didn't struggle with anything too much and I think it was a good first project.
+
+Miles - The project went really well and all in all I didn't have any notable roadblocks
+
+Raymond - I originally interpreted the Bubbling process wrong but Miles explained it to me during the stand-up and I conditionally rendered the other ones.
