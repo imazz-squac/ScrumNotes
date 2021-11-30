@@ -1,0 +1,22 @@
+Week 2 Retrospective:
+
+Raymond: 
+
+- I had some stumbling with JavaScript, need to improve on learning the syntax a little more. 
+
+
+Ryan:
+
+- Stumbled on JavaScript and needs to work more on conditional rendering.
+- Feels confident about Salesforce
+- Wishes to study more JavaScript to get a better handle on the Syntax
+
+Miles:
+
+- Stumbled a little bit on understanding the functionality of Shadow DOMs but now better understands it due to reading the Salesforce documentation.
+- Feels very confident about Salesforce and how the components work
+
+Matt:
+
+- Needs to just write more and more code in order to get a better understanding of the overall concepts but he feels better and is getting more confident as time progresses. 
+- He feels more confident about salesforce and is hoping to learn more about it as time progresses. 
