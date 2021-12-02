@@ -1,0 +1,18 @@
+Raymond:
+
+- Something to work on: need to double check and see if two junction objects are absolutely needed. 
+- doing well in creating custom objects and fields. Need to create multiple calculate fields
+
+Miles: 
+
+- Doing well in security, needs to double think wether or not to add additional fields and/or  objects to the data model. 
+
+Ryan:
+
+- Needs to work on creating valid junction objects, a little confusedn at the moment on how to improve said objects.
+- Will improve by asking Jared and also reviewing junction objects as a concept overall.
+
+Matt:
+
+- Had trouble creating custom fields, created a custom record-type by accident and when he deleted them it messed up his playground and had to start all over again.
+- Will review with Jared and try to figure out how to accurately create a custom field.   
