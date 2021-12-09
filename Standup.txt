@@ -20,3 +20,14 @@ Walter - The wireframe went well and I was able to incorporate a lot of the thin
 Miles - The project went really well and all in all I didn't have any notable roadblocks
 
 Raymond - I originally interpreted the Bubbling process wrong but Miles explained it to me during the stand-up and I conditionally rendered the other ones.
+
+
+Stand up - 12/9
+
+Ryan - unable to make too much progress on phase III because of power issues in the area. However, will finish everything today
+
+Miles - continuing work and hasn't run into any issues as of yet
+
+Matthew - planning and implementing the process automation and has not run into any issues
+
+Raymond - Finishing up with the process automation and implement/create the powerpoint and video
